@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "index.js",
   "name": "@arcaelas/fs",
   "description": "Managing files and directories becomes a complicated task, between Promises and Catchers, but with FS you can use the best features of NodeJS synchronously.",
